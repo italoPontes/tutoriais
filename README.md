@@ -26,6 +26,11 @@ Para inserir o seu material (post, curso, projeto) no repositório basta criar [
 
  - [TensorFlow 2.0: melhores práticas e o que mudou](https://medium.com/data-hackers/tensorflow-2-0-melhores-pr%C3%A1ticas-e-o-que-mudou-ec56ba95b6a)
  - [Transfer Learning com Tensorflow? Mais fácil do que você imagina... - (tensorflow@1.9)](https://medium.com/ensina-ai/transfer-learning-com-tensorflow-mais-f%C3%A1cil-do-que-voc%C3%AA-imagina-75c687fbf7be)
+ - [Minicurso de TensorFlow no Colab]()
+
+## Tutoriais/Guides
+
+ - [Minicurso de TensorFlow no Colab](https://colab.research.google.com/drive/14XVG3Ut5TxmLd1D8_6VWodYkyNDyLEln#scrollTo=UyrgGbfhtXPP)
 
 ## Cursos
 
