@@ -13,7 +13,7 @@ Este repositório é uma referência para materiais que estejam relacionados com
 As principais utilidades do repositório é:
 
  - Referenciar um __Post__ (Ex: Medium) com *TensorFlow* que esteja em Português/BR
- - Referenciar um __Curso__ (Ex: Udemy) com *TensorFlow* que esteja em Portguguês/BR
+ - Referenciar um __Curso__ (Ex: Udemy) com *TensorFlow* que esteja em Português/BR
  - Referenciar um __Projeto__ (Ex: no GitHub) com *TensorFlow* que esteja em Português/BR
  - Pedir a tradução de algum material com o *TensorFlow* para o Português/BR:
    - Post (Ex: Medium)
