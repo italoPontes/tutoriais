@@ -24,7 +24,7 @@ Para inserir o seu material (post, curso, projeto) no repositório basta criar [
 
 ## Blogposts
 
- - x
+ - [TensorFlow 2.0: melhores práticas e o que mudou](https://medium.com/data-hackers/tensorflow-2-0-melhores-pr%C3%A1ticas-e-o-que-mudou-ec56ba95b6a)
 
 ## Cursos
 
