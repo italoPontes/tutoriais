@@ -29,7 +29,7 @@ Para inserir o seu material (post, curso, projeto) no repositório basta criar [
 
 ## Cursos
 
- - x
+ - [Minicurso de TensorFlow](https://github.com/arnaldog12/minicurso-tensorflow)
 
 ## Projetos
 
