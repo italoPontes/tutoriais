@@ -35,7 +35,8 @@ Para inserir o seu material (post, curso, projeto) no repositório basta criar [
 ## Cursos
 
  - [Minicurso de TensorFlow](https://github.com/arnaldog12/minicurso-tensorflow)
-
+ - [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://www.coursera.org/learn/introduction-tensorflow)
+  
 ## Projetos
 
  - x
